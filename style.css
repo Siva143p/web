@@ -36,7 +36,7 @@ nav ul li #a:hover {
 #like {
     position: absolute;
     top: 20px;
-    left: 225px;
+    left: 260px;
     color: hotpink;
     height: 20px;
     width: 20px;
@@ -44,6 +44,6 @@ nav ul li #a:hover {
 
 #star {
     position: absolute;
-    left: 225px;
+    left: 255px;
     bottom: 30px;
 }
