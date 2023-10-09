@@ -1,0 +1,49 @@
+img {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+section {
+    background: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.2));
+}
+
+nav ul li #a:hover {
+    background-color: rgb(230, 226, 235);
+    /* background-color: rgb(236, 236, 230); */
+}
+
+#tm-img {
+    width: 100px !important;
+    height: 100px !important;
+}
+
+#abt {
+    background: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(https://source.unsplash.com/800x800/?nature) no-repeat;
+    background-size: cover;
+}
+
+.product {
+    width: 85vw;
+    margin: 80px auto;
+}
+
+#product-img {
+    width: 300px !important;
+    height: 300px !important;
+}
+
+#like {
+    position: absolute;
+    top: 20px;
+    left: 225px;
+    color: hotpink;
+    height: 20px;
+    width: 20px;
+}
+
+#star {
+    position: absolute;
+    left: 225px;
+    bottom: 30px;
+}
