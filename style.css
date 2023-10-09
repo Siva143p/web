@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
 img {
     width: 100vw;
     height: 100vh;
@@ -46,4 +47,9 @@ nav ul li #a:hover {
     position: absolute;
     left: 255px;
     bottom: 30px;
+}
+
+#my {
+    color: red;
+    font-family: 'Dancing Script', cursive;
 }
